@@ -1,0 +1,20 @@
+Continuous Testing is the process of executing automated tests throughout the software development lifecycle to get fast feedback on business risks and software quality.
+Features:
+Integrated with CI/CD pipelines
+
+Runs tests automatically after every code change
+
+Covers unit, integration, system, regression, and performance tests
+Benefits:
+
+Early defect detection
+
+Faster releases
+
+Better software quality
+
+Reduced manual testing effort
+Example:
+When a developer commits code, automated tests run immediately. If a test fails, the build is stopped, and the issue is fixed before moving further.
+CONCLUSION:
+Continuous Testing ensures the application is always test-ready and release-ready.
