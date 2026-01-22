@@ -1,0 +1,11 @@
+Feature	                                             Shift Left Testing	                                                        Shift Right Testing
+Meaning	                                        Testing is done early in the SDLC	                                   Testing is done after deployment in production
+Focus	                                          Preventing defects	                                                 Monitoring real user behavior & system performance
+Stage	                                          Requirement, design, and development phases	                         Post-release / production environment
+Goal	                                          Find bugs early → reduce cost	                                       Improve user experience & reliability
+Examples	                                      Unit testing, code reviews, static testing	                         A/B testing, production monitoring, user feedback
+Advantage	                                      Faster defect fixing, better quality	                               Real-world validation and continuous improvement
+
+CONCLUSION:
+Shift Left = Test early
+Shift Right = Test in production
